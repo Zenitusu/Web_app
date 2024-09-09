@@ -26,3 +26,9 @@ To get started with this project, you will need:
 
 5. **AI-Powered Chatbots**
    - Utilize AI and machine learning to understand and generate responses.
+
+structure 
+
+![chatbot-architecture](https://github.com/user-attachments/assets/a39961f2-711b-4e65-bc28-7bdc61c4f775)
+
+
