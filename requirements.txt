@@ -1,0 +1,30 @@
+To create a simple webkit - streamlit module - web apps
+
+
+streamlit application:
+
+streamlit tutorial:
+https://www.youtube.com/watch?v=UN4DaSAZel4&list=PLuU3eVwK0I9PT48ZBYAHdKPFazhXg76h5
+
+Chatbot basics and structure
+
+New_To_Me:
+    Gitter
+ 
+concepts:
+Python concs:
+        Basic Python Programming
+        File Handling
+        Basic Data Structures
+
+Streamlit concepts:
+    String Manipulation
+    Simple Text Matching
+    Streamlit Basics
+    Basic Data Handling
+    User Interface Design
+    Basic Deployment
+
+Integrating with AI:
+-Open_Ai API Key
+-NLU (Open source natural language processing (NLP) - Rasa)
